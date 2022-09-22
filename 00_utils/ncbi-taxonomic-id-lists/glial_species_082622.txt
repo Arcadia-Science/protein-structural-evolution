@@ -1,0 +1,13 @@
+
+code	|	name	|	preferred name	|	taxid
+2	|	Human	|	Homo sapiens	|	9606
+1	|	Mus musculus	|	 	|	10090
+1	|	Macaca mulatta	|	 	|	9544
+2	|	Zebrafish	|	Danio rerio	|	7955
+1	|	Drosophila melanogaster	|	 	|	7227
+1	|	Petromyzon marinus	|	 	|	7757
+1	|	Octopus vulgaris	|	 	|	6645
+1	|	Caenorhabditis elegans	|	 	|	6239
+1	|	Schmidtea mediterranea	|	 	|	79327
+1	|	Nematostella vectensis	|	 	|	45351
+1	|	Hydra vulgaris	|	 	|	6087
